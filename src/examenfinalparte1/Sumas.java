@@ -2,7 +2,12 @@ package examenfinalparte1;
 
 public class Sumas {
 
-    int resultado;
+    private int resultado;
+
+    public int getResultado() {
+        return resultado;
+    }
+    
 
     public Sumas(int num1, int num2) {
         resultado = sumar(num1, num2);
