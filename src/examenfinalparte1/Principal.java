@@ -1,7 +1,10 @@
 package examenfinalparte1;
 
 
-
+/**
+ * Clase encargada de mostrar los resultados por pantalla
+ * @author propa
+ */
 public class Principal {
 
     public static void main(String[] args) {
